@@ -107,7 +107,7 @@ To get your Datacamp authentication, follow these steps:
 
 1. Visit [datacamp.com](https://datacamp.com) and log in.
 2. Open the **Developer Tools** (press `Cmd + Opt + J` on MacOS or `F12` on Windows).
-3. Go to **Storage tab**, then **Cookies** > `https://www.datacamp.com`
+3. Go to **Application/Storage tab**, then **Cookies** > `https://www.datacamp.com`
 4. Find `_dct` key, its **Value** is the Datacamp authentication token.
 
 **Chrome**
